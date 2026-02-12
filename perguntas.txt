@@ -1,0 +1,23 @@
+Questao 1:
+Quanto e 5+5?
+
+A) 10
+B) 5
+C) 20
+D) 55
+
+Questao 2:
+Quanto e 10+10
+
+A) 22
+B) 3
+C) 20
+D) 10
+
+Questao 3:
+quanto e 20+20
+
+A) 42
+B) 40
+C) 38
+D) 35
