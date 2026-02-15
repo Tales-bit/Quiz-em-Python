@@ -10,8 +10,9 @@ for i in range (0, 1):
     print("\n")
 
     with open("perguntas.txt", "r") as arq1, open("gabarito.txt", "r") as arq2:
-        # O "3" é o total de questões 
-        for _ in range(3):
+        # O "5" é o total de questões 
+        for _ in range(5):
+            print("\n", end="")
             respostas = []
             for _ in range(8):
                 linha = arq1.readline().rstrip()
@@ -27,3 +28,12 @@ for i in range (0, 1):
                 if respostas[i].upper() == linha:
                     print("jogador {} acertou!".format(i+1))
                     pontos[i] = pontos[i]+1
+                else:
+                    print("jogador {} errou!".format(i+1))
+
+    print("\n")
+    print("====================================")
+    print("       Tabela de pontuacao")
+    print("====================================")
+    for i in range(nj):
+        print("jogador {} acertou {} questoes!".format(i+1, pontos[i]))

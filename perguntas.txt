@@ -7,17 +7,33 @@ C) 20
 D) 55
 
 Questao 2:
-Quanto e 10+10
+Quanto e 197+313?
 
-A) 22
-B) 3
-C) 20
-D) 10
+A) 410
+B) 500
+C) 490
+D) 510
 
 Questao 3:
-quanto e 20+20
+quanto e 198-95?
 
-A) 42
-B) 40
-C) 38
-D) 35
+A) 97
+B) 107
+C) 103
+D) 100
+
+Questao 4:
+quanto e 947-111?
+
+A) 836
+B) 872
+C) 793
+D) 845
+
+Questao 5:
+o que e uma funcao do 1 grau?
+
+A) E uma funcao nao importante
+B) E uma relacao matematica entre dois valores, sendo que um depende do outro
+C) E uma equacao sem nenhuma letra
+D) E uma relacao matematica entre o numero 1 e um outro valor

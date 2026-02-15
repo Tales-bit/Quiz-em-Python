@@ -1,6 +1,10 @@
 Questao 1
 A
 Questao 2
-C
+D
 Questao 3
+C
+Questao 4
+A
+Questao 5
 B
